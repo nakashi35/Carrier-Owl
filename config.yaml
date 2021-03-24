@@ -3,9 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
+        self-localizations: 8
         resnet: 3
-        anomaly detection: 1
+        anomaly detection: 5
+        GAN: 10
 
 # 通知の閾値
 score_threshold: 0
